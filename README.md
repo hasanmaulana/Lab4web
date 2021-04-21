@@ -1,4 +1,4 @@
-hasan maulana
+hasan maulana.... maaf pak, kalau isi nya amburadul, karena laptop sy baru di servis, jadi isi nya seadanya, ini jga baru di kerjain semalam pak, mohon maaf ya pak... 
 
 berikut langkah" nya saja dalam mode gambar
 ![ss pertama](https://user-images.githubusercontent.com/56497286/115492142-685cd400-a28b-11eb-8992-44961adfeb7f.png)
