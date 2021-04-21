@@ -1,6 +1,7 @@
-hasan maulana.... maaf pak, kalau isi nya amburadul, karena laptop sy baru di servis, jadi isi nya seadanya, ini jga baru di kerjain semalam pak, mohon maaf ya pak... 
+Nama : Hasan Maulana.... NIM : 311910167... Kelas : TI.19.A.1...
+maaf pak, kalau isi nya amburadul dan ngacak, karena laptop sy baru selesai di servis, jadi isi nya seadanya, ini jga baru di kerjain semalam pak, mohon maaf ya pak... insyaAllah beberapa hari lagi akan sy perbaiki lagi isi nya pak...
 
-berikut langkah" nya saja dalam mode gambar
+1. berikut langkah" nya saja dalam mode gambar
 ![ss pertama](https://user-images.githubusercontent.com/56497286/115492142-685cd400-a28b-11eb-8992-44961adfeb7f.png)
 ![Membuat Box Element 2](https://user-images.githubusercontent.com/56497286/115492158-714da580-a28b-11eb-8526-1d45f8450b2c.png)
 ![CSS Float Property 3](https://user-images.githubusercontent.com/56497286/115492167-76aaf000-a28b-11eb-8bb6-5a2e13069555.png)
